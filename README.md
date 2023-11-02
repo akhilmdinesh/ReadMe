@@ -1,11 +1,11 @@
 ![StackUp Banner]([https://tinkerhub.frappe.cloud/files/stackup%20banner.jpeg])
-# Project Name
-Long Description about project. This project do that. This project is awesome...
+# Task Management Applicatioon
+The Todo Application is a web-based task management tool that allows users to keep track of their tasks in an organized manner.
 ## Team members
-1. Name [Embed personal github URL]
+1. Akhil M Dinesh [https://github.com/akhilmdinesh]
 2. Name [Embed perosnal github URL]
 ## Team Id
-Team id here
+codeburst-
 ## Link to product walkthrough
 [link to video]
 ## How it Works ?
